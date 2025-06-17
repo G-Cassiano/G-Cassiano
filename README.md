@@ -31,4 +31,4 @@
 
 ## ⚡ Curiosidade
 
-> “O conhecimento é a única riqueza que, uma vez adquirida, ninguém pode roubar de você”
+“O conhecimento é a única riqueza que, uma vez adquirida, ninguém pode roubar de você”
