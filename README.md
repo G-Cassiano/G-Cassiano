@@ -5,7 +5,7 @@
 - 🎯 Focused on development with `C#` and `.NET`
 - 👨‍💻 Passionate about solving problems with technology
 - 🌱 Always learning and improving as a developer
-- 📍 Based in Brazil
+- 📍 From Brazil
 - 📫 Reach me on Instagram: [@g.cassianoo](https://instagram.com/g.cassianoo)
 
 ## 🛠️ Technologies & Tools
